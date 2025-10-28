@@ -1,0 +1,1 @@
+this repo is for the basic or foundational knowledge for python
